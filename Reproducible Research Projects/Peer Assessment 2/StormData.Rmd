@@ -1,7 +1,6 @@
 ---
 title: "Health and Economic Implications of Storms"
-author: "Daniel Maurath"
-date: "July, 2014"
+
 ---
 
 
